@@ -21,7 +21,7 @@
 ### 一、支持泥瓦匠（了解泥瓦匠：[《泥瓦匠想做一个与众不同的技术"匠"  》](http://t.cn/EazOqCY) http://t.cn/EazOqCY）
 1. 拿起微信，关注公众号：「泥瓦匠BYSocket 」。添加我微信：bysocket01，加入纯技术交流群，成长技术
 2. 给教程的开源代码仓库点个 **Star** 吧
-	- [GitHub（springboot-learning-example）](https://github.com/JeffLi1993/springboot-learning-example "GitHub（springboot-learning-example）")
+	- [GitHub repo（springboot-learning-example）](https://github.com/JeffLi1993/springboot-learning-example "GitHub（springboot-learning-example）")
 	- [Gitee（springboot-learning-example）](https://gitee.com/jeff1993/springboot-learning-example "Gitee（springboot-learning-example）")
 3. 帮忙分享该系列文章链接给更多的朋友
 
